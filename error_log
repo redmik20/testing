@@ -29,7 +29,7 @@
 [15-Dec-2018 17:00:30 Asia/Kolkata] PHP Warning:  Unterminated comment starting line 147 in /home/iprismconstruct/public_html/alertnikki/application/controllers/admin/Login.php on line 147
 [21-Dec-2018 14:16:11 Asia/Kolkata] PHP Warning:  Unterminated comment starting line 1374 in /home/iprismconstruct/public_html/alertnikki/application/controllers/admin/Register.php on line 1374
 [26-Dec-2018 23:18:01 Asia/Kolkata] PHP Fatal error:  Out of memory (allocated 2097152) (tried to allocate 8192 bytes) in /home/iprismconstruct/public_html/alertnikki/system/database/DB_query_builder.php on line 833
-[27-Dec-2018 20:31:36 Asia/Kolkata] PHP Warning:  Unterminated comment starting line 1375 in /home/iprismconstruct/public_html/alertnikki/application/controllers/admin/Register.php on line 1375
+[27-Dec-2018 20:31:36 Asia/Kolkata] PHP Warning:  Unterminated comment starting line 1375 in /home/iprismconstruct/public_html/alertnikki/application/controllers/admin/Register.php on line 1375  harsha
 [02-Jan-2019 12:13:58 Asia/Kolkata] PHP Fatal error:  Call to a member function result() on boolean in /home/iprismconstruct/public_html/alertnikki/application/models/Homemodel.php on line 36
 [02-Jan-2019 12:13:59 Asia/Kolkata] PHP Fatal error:  Call to a member function result() on boolean in /home/iprismconstruct/public_html/alertnikki/application/models/Homemodel.php on line 36
 [02-Jan-2019 12:14:28 Asia/Kolkata] PHP Fatal error:  Call to a member function result() on boolean in /home/iprismconstruct/public_html/alertnikki/application/models/Homemodel.php on line 36
